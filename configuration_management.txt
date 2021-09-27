@@ -1,0 +1,37 @@
+
+
+
+To work on this project create a directory on local host and do:
+
+git clone ~/Desktop/twotb/git/motorlas/ .
+
+
+
+Before resuming work in this project do:
+
+git pull ~/Desktop/twotb/git/motorlas/
+
+
+
+If adding files to project do:
+
+git add <file>
+
+Or if all files are to be managed:
+
+git -v add *
+
+
+
+
+
+
+Periodically do:
+cd ~/openscad/motorlas
+git add -u
+git add *.scad *.txt
+git commit -m "<short description of changes here>"
+meld ~/Desktop/twotb/git/motorlas ~/git/motorlas
+cd ~/Desktop/twotb/git/motorlas/ ; git pull ~/git/motorlas ; cd ~/git/motorlas
+
+

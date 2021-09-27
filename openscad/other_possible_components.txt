@@ -1,0 +1,226 @@
+
+
+
+Denna lista är lite gammal
+
+Nyare list i possible_components.txt
+
+
+
+Priser om inget annat anges i SEK ex moms (ex frakt).
+
+
+
+Motorer
+
+
+
+
+MOTORDREVSMODUL 0,8 3,2 MM 10
+Borde passa motorena med 3 mm diam axel
+conrad:219207 
+price:32
+
+
+
+
+
+
+Fler motorer:
+
+http://www.model-craft.se/index.php?page=shop.browse&category_id=268&option=com_virtuemart&Itemid=41
+
+http://factorymonster.com/category/home-office/home-improvement-tools/electrical/electric-motors?3
+
+
+
+
+Tangentbord 12 tryckknappar, ECO 12150 06
+elfa:35-674-15
+price: 100
+
+
+
+
+Mikrogapströmställare 0.1 A Nock, D2F-01
+elfa:35-873-58
+price: 10
+
+
+
+
+
+Kugghjul
+http://www.conrad.se/Kugghjul-%26amp;-Drev.htm?websale7=conrad-swe&ci=SHOP_AREA_19804
+
+
+
+Pololu 150:1 Micro Metal Gearmotor
+http://www.robotshop.com/eu/pololu-150-to-1-micro-gear-motor-hp.html
+
+
+100:1 Mini Metal Gear Motor 
+GM12A
+http://www.active-robots.com/solarbotics-mini-metal-gear-motor-12a.html
+http://www.pololu.com/catalog/product/992
+
+
+
+
+
+100:1 Micro Metal Gearmotor HP with Extended Motor Shaft
+http://www.pololu.com/catalog/product/2214
+
+
+Machine Screw: M1.6, 3mm Length, Phillips (6-pack)
+http://www.pololu.com/catalog/product/1954
+
+
+
+Screws and Hardware
+http://www.rpmechatronics.co.uk/shop/index.php?cPath=28
+
+Plain Socket Head Screws
+http://www.rpmechatronics.co.uk/shop/index.php?cPath=28_301
+
+
+
+http://www.stainlesssteelmicroscrews.co.uk/
+
+
+
+Large selection of screws, But only delivery to UK :(
+http://www.shop4fasteners.co.uk/acatalog/Micro_Slotted_Cheese_Head_Machine_Screws_Din_84.asp
+
+
+
+
+Precision Gears
+http://www.rpmechatronics.co.uk/shop/index.php?cPath=32
+
+
+
+
+STÅLKUGGHJUL 12Z M1 B3.2
+http://www.conrad.se
+Artikelnummer: 240362
+Antal tänder	12
+Mått	        (Ø) 14 mm
+Navdiameter	10 mm
+Borrhål 	3.2 mm
+Tandbredd	8 mm
+Navlängd	6 mm
+
+
+http://www.conrad.se
+Artikelnummer: 239067
+ELMOTOR XDRIVE GM12F-N20VS-2
+
+
+
+
+http://www.amazon.co.uk
+M20 12V 0.06A 80RPM 5Kg.cm Electric Speed Reducing DC Geared Motor
+Price: 	£4.33
+
+
+
+
+
+screws
+http://www.modelfixings.co.uk/
+
+Stainless Steel, Slot cheese head, M1.6 3mm
+http://www.modelfixings.co.uk/machine_screws.htm
+
+Socket Cap Screws
+http://www.modelfixings.co.uk/stainless_steel_caps.htm
+
+
+
+
+Bluetooth Modem - BlueSMiRF Silver
+http://www.active-robots.com/radio/bluetooth/bluetooth-modem-bluesmirf-gold-1.html
+
+RN-42 Bluetooth Module
+http://www.active-robots.com/radio/bluetooth/rn-42-bluetooth-module.html
+breadboard friendly
+
+
+Bluetooth-modul 2.1 Klass 2, ARF7678AA, BTC2-DATA
+elfa:78-313-51
+
+
+
+
+Microcontroller 32 Bit LQFP-64, ATSAM3N4BA-AU
+elfa:73-287-30
+
+
+
+
+
+Conclution, to buy
+
+
+
+
+
+
+gear motor
+http://www.active-robots.com/solarbotics-mini-metal-gear-motor-12a.html
+
+
+
+GM11a/12a/13a/14a Mounting Screw/Bolt
+http://www.active-robots.com/gm11a-12a-13a-14a-mounting-screw-bolt.html
+
+
+
+
+gear
+http://www.conrad.se/
+STÅLKUGGHJUL 12Z M1 B3.2
+Artikelnummer: 240362 
+
+
+Mikrogapströmställare 5 A Glidarm L=15.2 mm, CSM40540F
+elfa:35-703-63
+price: 10
+quantity: 2
+
+
+
+
+
+
+
+
+
+Under tangentbordet borde vi ha en micro usb kontakt.
+Troligen standard bottom mount
+http://se.farnell.com/hrs-hirose/zx62d-b-5pa8/connector-micro-usb-receptacle/dp/2300438
+http://www.farnell.com/datasheets/1693470.pdf
+
+
+
+
+För koppling av Tangentbord till moderkort borde det vara flatkabel:
+
+Flatkabel 1.27 mm 10xAWG 28, 1-971111-3
+elfa:55-664-02
+
+Kabelhylsdon DIN 41651 10P, C3001-10YYGB00R
+elfa:43-150-16
+
+Stiftlist DIN 41651 10P, C3510-10SPGB00R
+elfa:43-155-03
+
+
+
+
+
+
+
+
+

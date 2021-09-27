@@ -1,0 +1,78 @@
+/home/henrik/Desktop/twotb/d/arc/motors/electric/gear_motors/GM12A
+
+
+
+
+gear motor, one of these (Currently using popolu #1097):
+http://www.active-robots.com/solarbotics-mini-metal-gear-motor-12a.html
+http://www.active-robots.com/solarbotics-mini-metal-gear-motor-13a.html
+http://www.active-robots.com/pololu-150-1-micro-metal-gear-motor.html
+
+
+
+GM11a/12a/13a/14a Mounting Screw/Bolt
+http://www.active-robots.com/gm11a-12a-13a-14a-mounting-screw-bolt.html
+
+
+
+
+Tangentbord 12 tryckknappar, ECO 12150 06
+elfa:35-674-15
+price: 100
+
+eller (om tangentbordet ska sitta utomhus):
+
+Vandalsäkra tangentbord 12 tryckknappar (dator), 4K1201
+elfa:35-674-57
+price: 600
+
+
+
+Mikrogapströmställare 5 A Nock, CSM40500F
+elfa:35-703-60
+price: 9.50 SEK
+quantity: 2
+
+
+
+Tryckknappsbrytare SPST-NO Vandalskyddad Panelmontering, fram 
+SWITCH PUSHBUTTON SPST-NO 2A 48V
+E-Switch PV2H240BB
+digikey:EG5144-ND
+
+
+
+Sexkantsmuttrar, Inox A2 M2, BN 628 M2
+Nyckelvidd 4 mm
+elfa:48-426-20
+antal: 10
+
+Försänkt skruv, Torx rostfritt A2 M2 12 mm, BN 3803 M2X12
+elfa:48-425-04
+antal: 7
+
+
+Försänkt skruv, Torx rostfritt A2 M4 12 mm, BN 3803 M4X12MM
+elfa:48-425-17
+antal: 2
+
+Låsmutter, Inox A2 M4, BN 637 M4
+Nyckelvidd 7 mm
+elfa:48-426-71
+antal: 2
+
+
+
+
+Magnetic contact switch (dörrsensor)
+http://mypi.se/ada-dorrsensor
+eller
+Utanpåliggande eller infälld magnetisk larmkontakt VdS brun, MK1010B
+elfa:37-533-38
+
+
+Vid beställning ifrån Active robots beställ en sån här också.
+http://www.active-robots.com/brickpi.html#
+
+
+

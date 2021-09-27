@@ -1,0 +1,7 @@
+# ignore these
+*.o
+*.hex
+*.bin
+*.out
+*.map
+

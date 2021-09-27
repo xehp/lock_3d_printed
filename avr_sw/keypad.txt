@@ -1,0 +1,61 @@
+
+
+
+Keyboard
+
+D-K -> '3'
+D-J -> '6'
+D-H -> '9'
+D-G -> '#'
+E-K -> '2'
+E-J -> '5'
+E-H -> '8'
+E-G -> '0'
+F-K -> '1'
+F-J -> '4'
+F-H -> '7'
+F-G -> '*'
+
+DEF = Keyboard ctr
+D = LSB
+
+label mask ctr
+D = 0x1 ... 0
+E = 0x2 ... 1
+F = 0x4 ... 2
+
+GHJK = Keyboard in
+K = LSB
+
+label mask
+K = 0x1
+J = 0x2
+H = 0x4
+G = 0x8
+
+When keyboard ctr is 0 (mask 0x1) , D is active, decode in as:
+0x1 -> '3'
+0x2 -> '6'
+0x4 -> '9'
+0x8 -> '#'
+
+When keyboard ctr is 1 (mask 0x2), E is active, decode in as:
+0x1 -> '2'
+0x2 -> '5'
+0x4 -> '8'
+0x8 -> '0'
+
+When keyboard ctr is 2 (mask 0x4), F is active, decode in as:
+0x1 -> '1'
+0x2 -> '4'
+0x4 -> '7'
+0x8 -> '*'
+
+
+
+
+
+
+
+
+ 
